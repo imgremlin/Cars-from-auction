@@ -8,7 +8,7 @@
 
 ## Awards
 
-[2nd place](https://sibur.ai-community.com/competitions/4/tasks/12/rating)
+2nd place
 
 ## Author
 Oleksii Tsepa
